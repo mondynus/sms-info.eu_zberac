@@ -1,3 +1,3 @@
 # sms-info.eu_zberac
 
-Scripty slúia pre skopírovanie oznamov zo slubz sms-info.eu do vlastnej databázy.
+Scripty slÃºÅ¾ia pre skopÃ­rovanie oznamov zo sluÅ¾by sms-info.eu do vlastnej databÃ¡zy.
